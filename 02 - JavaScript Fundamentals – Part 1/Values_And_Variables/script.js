@@ -14,6 +14,12 @@ console.log(firstName);
 let lastName = "Amin";
 console.log(lastName);
 
+/*
+
+Multiline comment
+
+*/
+
 let dogName = "tommy";
 console.log(dogName);
 
@@ -47,3 +53,33 @@ let job1 = "Teacher";
 let job2 = "Programmer";
 
 console.log(myFirstJob);
+
+true;
+console.log(true);
+
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+
+console.log(typeof true);
+console.log(typeof false);
+console.log(typeof javascriptIsFun);
+console.log(typeof 5);
+console.log(typeof 5.6);
+console.log(typeof "Fahim");
+console.log(typeof "Fahim");
+console.log(typeof fahim);
+
+javascriptIsFun = "YES!";
+console.log(javascriptIsFun);
+console.log(typeof javascriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(typeof year);
+console.log(year);
+
+console.log(null);
+console.log(typeof null); // this is regarded as BUG or error in JS
