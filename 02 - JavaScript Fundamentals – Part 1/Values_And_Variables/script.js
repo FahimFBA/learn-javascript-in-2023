@@ -6,6 +6,8 @@ console.log("Fahim");
 console.log(23);
 console.log(35);
 
+// variable name conventions
+
 let firstName = "Fahim";
 console.log(firstName);
 
